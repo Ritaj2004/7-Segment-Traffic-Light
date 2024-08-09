@@ -1,10 +1,3 @@
-/*
- * traffic light.c
- *
- * Created: 8/6/2024 4:21:58 AM
- * Author : Ritaj
- */ 
-
 #include <avr/io.h>
 #include <avr/delay.h>
 typedef unsigned char u8;
